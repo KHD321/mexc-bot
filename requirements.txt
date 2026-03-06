@@ -1,3 +1,5 @@
 python-telegram-bot
 ccxt
+pandas
+numpy
 python-dotenv
