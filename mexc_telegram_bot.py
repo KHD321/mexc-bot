@@ -2,7 +2,7 @@
 MEXC Telegram Advanced Spot Trade Bot
 
 Funksiyalar:
-
+ 
 - Yalnız SPOT əməliyyatlar
 - PAXG/USDT dəstəyi
 - Watchlist (öz coinlərinizi əlavə edin)
